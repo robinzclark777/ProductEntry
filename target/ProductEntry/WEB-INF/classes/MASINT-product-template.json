@@ -1,0 +1,68 @@
+{
+	"envelope": {
+		"headers": {
+			
+		},
+		"triples": [],
+		"instance": {
+			"MPProduct": {
+				"productId": 10000,
+				"targetId": "BE-9999-11111",
+				"explPhase": 0,
+				"collDate": "2019-05-09-17:00",
+				"productDate": "2019-05-09-17:00",
+				"procDate": "2019-05-09-17:00",
+				"indexDate": "2019-05-09-17:00",
+				"content": "Intelligence Report",
+				"keyword": "fence pests ants ground hogs",
+				"poc": "EXERCISE",
+				"summary": "Ground hogs and ants were detected by UGS entering the north edge of Farmer Jones field.",
+				"title": "Ground hogs and ants breach north fence",
+				"url": "https://www.baltimoresun.com/features/home/bs-re-garden-qa-0609-story.html",
+				"derivedData": 0,
+				"intelReport": 0,
+				"locations": {
+					"Point": [
+						{
+							"latitude": 34.693096462442654,
+							"longitude": -77.02086455212513
+						}
+					]
+				},
+				"disciplines": {
+					"MPDiscipline": [
+						{
+							"disciplineId": 70,
+							"name": "a",
+							"subDiscipline": "a",
+							"subLevel": "a"
+						}
+					]
+				},
+				"countries": {
+					"MPCountry": [
+						{
+							"countryCodeId": 303,
+							"diglyph": "US",
+							"triglyph": "USA",
+							"name": "UNITED STATES"
+						}
+					]
+				},
+				"agency": {
+					"MPAgency": {
+						"agencyId": 5,
+						"auditFrequency": 604800000,
+						"auditStartTime": 0,
+						"name": "National Security Agency"
+					}
+				},
+				"classification": "UNCLASSIFIED"
+			},
+			"info": {
+				"title": "MPProduct",
+				"version": "0.0.1"
+			}
+		}
+	}
+}
